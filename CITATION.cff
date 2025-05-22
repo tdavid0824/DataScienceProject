@@ -1,1 +1,18 @@
+cff-version: 1.2.0
+message: "Data Science Project Citation."
+title: "Municipal Solid Waste forecasting in the city of Seattle"
+version: "1.0.0"
+date-released: 2025-05-22
+authors:
+  - family-names: Babilev
+    given-names: Laurentiu
+  - family-names: Ciuntu
+    given-names: Daniele
+  - family-names: Toma
+    given-names: Dávid
+  - family-names: Juhász
+    given-names: Péter
+  - family-names: Rohde
+    given-names: Tobias Harkov
+repository-code: "https://github.com/tdavid0824/DataScienceProject"
 
